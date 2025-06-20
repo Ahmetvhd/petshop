@@ -1,0 +1,29 @@
+.bg-gray {
+    background-color: rgba(27, 23, 23, 0.91);
+}
+.backgraund {
+    background-color: #E9ECEF ;
+}
+.t-w {
+    color: #FF7F50;
+    font-family: copperplate, papyrus, fantasy;
+}
+.tl {
+    background-color: rgb(73, 73, 72);
+    color: white;
+    display: inline-block;
+    padding: 5px 10px;
+    width: 70px;
+    height: 25px;
+    font-size:x-small;
+    border-radius: 20px;
+}
+.h2-f {
+    font-family: copperplate, papyrus, fantasy;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+section{
+    margin-left: 70px;
+}
